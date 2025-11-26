@@ -17,15 +17,12 @@ A repository for paperback that includes both manga and comic extensions
 - NovelFire
 - ReadAllComics
 - ReadComicsOnline
-
-## 📋 Upcoming Sources
-
--
+- RezoScans
 
 ## 🚀 Installation
 
 1. Open Paperback
-2. Add this repository using [this link](https://karrot0.github.io/KakarotExtension/0.9/stable/)
+2. Add this repository using [this link](paperback://addRepo?displayName=Kakarot%20Extension&url=https%3A%2F%2Fbigmo0.github.io%2FKakarotExtension)
 3. Install and enjoy reading!
 
 ---
